@@ -1,1 +1,1 @@
-def search_notes(): pass
+def search_notes(): return []
