@@ -1,1 +1,1 @@
-print('Welcome to CampusNotes')
+def main(): print('Welcome to CampusNotes')
